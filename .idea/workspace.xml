@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bc80bdc-03c2-46a5-9aef-b532ea5084e5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2j9GMfH8bUmO1gJE7hBOjew98zr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConvertImageType.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ImageConverterTest.ConvertImageTypeTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wyatt/OneDrive/Desktop/Portfolio Projects/Image-Processor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wyatt\OneDrive\Desktop\Portfolio Projects\Image-Processor" />
+      <recent name="C:\Users\wyatt\OneDrive\Desktop\Portfolio Projects\Image-Processor\Image Processor\src\main\resources" />
+      <recent name="C:\Users\wyatt\OneDrive\Desktop\Portfolio Projects\Image-Processor\Image Processor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ImageConverterTest.ConvertImageTypeTest">
+    <configuration name="ConvertImageType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.wcirou.ConvertImageType" />
+      <module name="Image-Processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.wcirou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageConverterTest.ConvertImageTypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Image-Processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.wcirou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.wcirou" />
+      <option name="MAIN_CLASS_NAME" value="dev.wcirou.ImageConverterTest" />
+      <option name="METHOD_NAME" value="ConvertImageTypeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ImageConverterTest.ConvertImageTypeTest" />
+        <item itemvalue="Application.ConvertImageType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bc80bdc-03c2-46a5-9aef-b532ea5084e5" name="Changes" comment="" />
+      <created>1720791832820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720791832820</updated>
+    </task>
+    <servers />
+  </component>
+</project>
